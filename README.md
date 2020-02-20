@@ -1,6 +1,6 @@
 # ShowMouse
 
-This script can show a little ripple effects when you click the mouse left, middle or right button or scroll the mouse wheel.
+This <i><b>Windows</i>-only</b> script can show a little ripple effects when you click the mouse left, middle or right button or scroll the mouse wheel.
 
 ## Programming language
 
